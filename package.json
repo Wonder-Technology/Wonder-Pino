@@ -1,5 +1,5 @@
 {
-  "name": "pino",
+  "name": "wonder-pino",
   "version": "0.1.0",
   "description": "super fast, all natural json logger",
   "main": "pino.js",
